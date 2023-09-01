@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 10.99,
+      "limitPerOrder": 2,
+      "inventoryCount": 5
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 9.99,
+      "limitPerOrder": 3,
+      "inventoryCount": 5
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 19.99,
+      "limitPerOrder": 4,
+      "inventoryCount": 5
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "price": 100.99,
+      "limitPerOrder": 5,
+      "inventoryCount": 5
+    }
+  ]
+  

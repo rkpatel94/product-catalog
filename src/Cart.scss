@@ -1,0 +1,40 @@
+// Cart.scss
+
+.cart {
+  width: 300px;
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 5px;
+
+  h2 {
+    margin-top: 0;
+    font-size: 20px;
+  }
+
+  .cart-item {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+
+    p {
+      margin: 5px 0;
+    }
+
+    button {
+      padding: 5px 10px;
+      background-color: #dc3545;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+
+      &:hover {
+        background-color: #c82333;
+      }
+    }
+  }
+
+  p:last-child {
+    font-weight: bold;
+  }
+}

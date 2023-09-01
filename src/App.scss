@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+
+  .campare-btn {
+    height: fit-content;
+  }
+}
